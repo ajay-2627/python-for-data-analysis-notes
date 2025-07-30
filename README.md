@@ -22,7 +22,7 @@ Each topic will have:
 
 ✅ **Practice**: Print your name, age, and favorite color.
 
-01_introduction_to_python/Read.me
+01_introduction_to_python.md
 
 
 ---
