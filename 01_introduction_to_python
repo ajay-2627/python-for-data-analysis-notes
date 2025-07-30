@@ -1,0 +1,56 @@
+# 📘 01. Introduction to Python
+
+---
+
+## 🐍 What is Python?
+
+Python is a widely used **high-level, interpreted programming language** known for its **clear and simple syntax**. It is popular across various domains such as:
+
+- 📊 Data Analysis  
+- 🌐 Web Development  
+- 🤖 Machine Learning  
+- 🔁 Automation and Scripting  
+- 🧪 Scientific Computing  
+
+Python was created by **Guido van Rossum** and first released in **1991**. It is **open-source**, and supported by a massive community of developers and data scientists.
+
+---
+
+## 💡 Why Python for Data Analysis?
+
+Python is ideal for data analysis because:
+
+- ✅ It has powerful libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
+- ✅ It’s easy to learn and write, even for non-programmers.
+- ✅ Python handles large datasets efficiently.
+- ✅ Jupyter Notebooks allow interactive data exploration and sharing.
+
+---
+
+## ⚔️ Python vs Excel / R / SQL
+
+| Tool     | Use Case                       | Python Advantage                          |
+|----------|--------------------------------|--------------------------------------------|
+| Excel    | Manual data entry & reports    | Python automates and scales better         |
+| R        | Statistical computing          | Python is more versatile and readable      |
+| SQL      | Querying structured databases  | Python can query, process, and visualize   |
+
+---
+
+## 🛠️ Installation Guide
+
+### 🐍 Option 1: Install Anaconda (Recommended)
+
+Anaconda includes:
+- Python interpreter
+- Jupyter Notebook
+- Key data libraries
+
+🔗 [Download Anaconda](https://www.anaconda.com/products/distribution)
+
+### 💻 Option 2: Manual Install
+1. Download Python from [https://www.python.org](https://www.python.org)
+2. Install VS Code and Python extension
+3. Use `pip` to install:
+   ```bash
+   pip install notebook pandas numpy matplotlib seaborn
