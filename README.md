@@ -22,6 +22,8 @@ Each topic will have:
 
 ✅ **Practice**: Print your name, age, and favorite color.
 
+
+
 ---
 
 ### 🔹 02. Variables and Data Types
